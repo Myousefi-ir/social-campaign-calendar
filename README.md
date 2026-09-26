@@ -4,6 +4,8 @@ A single-file, offline tool for planning, producing, approving and measuring the
 
 No install, no server, no account, no tracking: download `index.html` and open it in your browser.
 
+**Try it online: [myousefi-ir.github.io/social-campaign-calendar](https://myousefi-ir.github.io/social-campaign-calendar/)** — what you enter stays in your browser; click **Save** to keep it as a file.
+
 **[فارسی](README.fa.md)**
 
 ## Features

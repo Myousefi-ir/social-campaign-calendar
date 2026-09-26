@@ -6,6 +6,8 @@
 
 نصب، سرور، حساب کاربری و ردیابی ندارد: فایل `index.html` را دانلود کنید و در مرورگر باز کنید.
 
+**نسخه آنلاین: [myousefi-ir.github.io/social-campaign-calendar](https://myousefi-ir.github.io/social-campaign-calendar/)** — هرچه وارد کنید در مرورگر خودتان می‌ماند؛ برای نگه داشتن آن به‌صورت فایل، «ذخیره» را بزنید.
+
 **[English](README.md)**
 
 ## چه کارهایی می‌کند
